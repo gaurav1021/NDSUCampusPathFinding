@@ -8,7 +8,10 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parent
+if not (ROOT_DIR / "src").exists():
+    ROOT_DIR = ROOT_DIR.parent
+
 SRC_DIR = ROOT_DIR / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
