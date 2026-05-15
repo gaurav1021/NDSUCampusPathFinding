@@ -1,0 +1,50 @@
+{
+  "clear_day": {
+    "label": "Clear Spring Day",
+    "description": "Mild daytime conditions with minimal weather risk.",
+    "condition": "clear",
+    "temp_c": 18.0,
+    "feels_like_c": 18.0,
+    "wind_speed_mps": 3.0,
+    "rain_mm": 0.0,
+    "snow_mm": 0.0,
+    "wind_chill_c": 17.0,
+    "is_night": false
+  },
+  "rainy_evening": {
+    "label": "Rainy Evening",
+    "description": "Wet surfaces and reduced comfort make exposed routes less attractive.",
+    "condition": "rain",
+    "temp_c": 9.0,
+    "feels_like_c": 7.5,
+    "wind_speed_mps": 5.0,
+    "rain_mm": 4.5,
+    "snow_mm": 0.0,
+    "wind_chill_c": 6.0,
+    "is_night": true
+  },
+  "winter_storm": {
+    "label": "Winter Storm",
+    "description": "Heavy snow, strong wind, and severe wind chill favor protected indoor routes.",
+    "condition": "snow",
+    "temp_c": -18.0,
+    "feels_like_c": -24.0,
+    "wind_speed_mps": 11.0,
+    "rain_mm": 0.0,
+    "snow_mm": 7.5,
+    "wind_chill_c": -30.0,
+    "is_night": false
+  },
+  "freezing_night": {
+    "label": "Freezing Night",
+    "description": "Extreme cold plus nighttime safety considerations highlight lit protected paths.",
+    "condition": "clear",
+    "temp_c": -22.0,
+    "feels_like_c": -27.0,
+    "wind_speed_mps": 8.0,
+    "rain_mm": 0.0,
+    "snow_mm": 0.5,
+    "wind_chill_c": -31.0,
+    "is_night": true
+  }
+}

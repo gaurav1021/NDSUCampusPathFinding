@@ -1,0 +1,61 @@
+edge_id,source,target,distance_m,edge_type,is_indoor,is_accessible,has_stairs,well_lit,is_tunnel,is_skyway,is_weather_exposed,crowd_level,open_time,close_time,bidirectional,description
+e001,mu_interior,sugihara_interior,80,skyway,true,true,false,true,false,true,false,medium,06:00,22:00,true,Climate-controlled connector between Memorial Union and Sugihara Hall.
+e002,sugihara_interior,ladd_interior,70,skyway,true,true,false,true,false,true,false,low,07:00,22:00,true,Climate-controlled connector between Sugihara Hall and Ladd Hall.
+e003,mu_interior,main_quad_south,55,sidewalk,false,true,false,true,false,false,true,high,always,always,true,Primary quad walkway departing Memorial Union.
+e004,wallman_interior,main_quad_south,95,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,West-side route between Wallman and the main quad.
+e005,main_quad_south,main_quad_north,95,sidewalk,false,true,false,true,false,false,true,high,always,always,true,Central north-south quad spine through main campus.
+e006,main_quad_north,library_interior,55,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Library connection from the north quad.
+e007,main_quad_north,admin_green,35,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Short connector between the north quad and administration green.
+e008,admin_green,minard_interior,45,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Accessible route from admin green to Minard Hall.
+e009,admin_green,old_main_interior,30,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Old Main connection from admin green.
+e010,old_main_interior,putnam_interior,20,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Short protected connection between Old Main and Putnam Hall.
+e011,old_main_interior,morrill_interior,55,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Outdoor route from Old Main toward Morrill Hall.
+e012,morrill_interior,ladd_interior,45,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Central campus link between Morrill and Ladd.
+e013,mu_interior,albrecht_crossing,60,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Eastbound walk from Memorial Union toward Albrecht Boulevard.
+e014,albrecht_crossing,minard_interior,50,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Outdoor Minard connection near Albrecht.
+e015,albrecht_crossing,centennial_walkway,55,sidewalk,false,true,false,false,false,false,true,medium,always,always,true,Wind-exposed route toward Centennial Boulevard.
+e016,albrecht_crossing,engineering_plaza,95,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Eastbound route into the engineering district.
+e017,engineering_plaza,qbb_interior,35,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Quentin Burdick access from the engineering plaza.
+e018,engineering_plaza,sudro_interior,50,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Sudro access from the engineering plaza.
+e019,engineering_plaza,engineering_interior,35,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Engineering access from the plaza.
+e020,engineering_interior,engineering_center_interior,20,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Indoor connection between the main engineering building and engineering center.
+e021,engineering_center_interior,ece_interior,18,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Indoor engineering district connector to ECE.
+e022,engineering_center_interior,civil_interior,22,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Indoor engineering center link to civil and industrial engineering.
+e023,civil_interior,dolve_interior,25,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Indoor engineering circulation between Civil and Dolve Hall.
+e024,ece_interior,south_engineering_interior,35,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Indoor engineering route toward South Engineering.
+e025,qbb_interior,stevens_interior,50,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Science-district outdoor connection between Quentin Burdick and Stevens Hall.
+e026,stevens_interior,van_es_interior,40,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Outdoor route between Stevens and Van Es Hall.
+e027,stevens_interior,waldron_interior,35,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Short outdoor route between Stevens and Waldron.
+e028,waldron_interior,harris_interior,30,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Science corridor route between Waldron and Harris Hall.
+e029,ndsu_transit_hub,centennial_shelter,45,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Transit loop connection between the NDSU Transit Hub and Centennial shelter.
+e030,ndsu_transit_hub,minard_pullout_east,70,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Transit-accessible path from hub to Minard east pullout.
+e031,ndsu_transit_hub,minard_pullout_west,75,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Transit-accessible path from hub to Minard west pullout.
+e032,ndsu_transit_hub,main_quad_north,80,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Central campus route between the transit hub and academic core.
+e033,ndsu_transit_hub,centennial_walkway,45,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Short route from the transit hub to Centennial Walkway.
+e034,centennial_shelter,shac_interior,80,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Northbound route from Centennial shelter to SHAC.
+e035,shac_interior,shac_stop,20,doorway,false,true,false,true,false,false,true,low,06:00,22:00,true,Immediate access from SHAC to its MATBUS stop.
+e036,shac_interior,fargodome_transit_hub,220,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Long north campus walk from SHAC to Fargodome transit hub.
+e037,fargodome_transit_hub,fargodome_interior,50,doorway,false,true,false,true,false,false,true,low,07:00,23:00,true,Direct access from the Fargodome transit hub into the venue.
+e038,fargodome_transit_hub,university_village_shelter,280,sidewalk,false,true,false,true,false,false,true,low,always,always,true,North-east housing route from the Fargodome hub to University Village.
+e039,university_village_shelter,university_village,40,doorway,false,true,false,true,false,false,true,low,always,always,true,Short housing access edge for University Village.
+e040,university_village_shelter,niskanen_interior,120,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Housing route from University Village shelter to Niskanen Hall.
+e041,minard_interior,high_rises,170,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Northbound housing route from Minard to the High Rises.
+e042,high_rises,fargodome_transit_hub,150,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Housing route connecting High Rises with the Fargodome transit hub.
+e043,research_park_stop,research_park,45,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Direct Research Park access from the MATBUS stop.
+e044,peltier_stop,peltier_interior,35,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Direct Peltier Complex access from the MATBUS stop.
+e045,wellness_stop,wallman_interior,25,doorway,false,true,false,true,false,false,true,low,05:30,23:00,true,Short access edge from the Wellness Center stop to Wallman.
+e046,stevens_stop,stevens_interior,20,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Short access edge from the Stevens stop to Stevens Hall.
+e047,peltier_interior,research_park,600,sidewalk,false,true,false,false,false,false,true,low,always,always,true,Long west-campus research route between Peltier and Research Park.
+e048,peltier_interior,stevens_interior,430,sidewalk,false,true,false,false,false,false,true,low,always,always,true,Western campus academic connector between Peltier and Stevens.
+e049,research_park,research_park_stop,45,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Return access edge for Research Park MATBUS service.
+e050,klai_stop,klai_hall,18,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Downtown campus stop access for Klai Hall.
+e051,barry_stop,barry_hall,18,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Downtown campus stop access for Barry Hall.
+e052,renaissance_hall,barry_hall,40,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Downtown walk between Renaissance Hall and Barry Hall.
+e053,renaissance_hall,klai_hall,35,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Downtown walk between Renaissance Hall and Klai Hall.
+e054,ndsu_transit_hub,renaissance_hall,2200,sidewalk,false,true,false,true,false,false,true,low,always,always,true,Long downtown walk used mostly as a non-transit fallback connection.
+e055,mu_interior,library_interior,170,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Outdoor west-quad route between Memorial Union and the library.
+e056,library_interior,minard_interior,70,stairs_path,false,false,true,false,false,false,true,low,always,always,true,Short but stair-based cut-through between the library and Minard.
+e057,minard_interior,minard_pullout_east,24,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Immediate Minard access to the east MATBUS pullout.
+e058,minard_interior,minard_pullout_west,22,doorway,false,true,false,true,false,false,true,low,07:00,22:00,true,Immediate Minard access to the west MATBUS pullout.
+e059,ndsu_transit_hub,university_village,320,sidewalk,false,true,false,true,false,false,true,medium,always,always,true,Long direct route from the transit hub to University Village.
+e060,klai_hall,barry_hall,22,indoor_corridor,true,true,false,true,false,false,false,low,07:00,22:00,true,Downtown indoor-adjacent corridor connection between Klai and Barry halls.

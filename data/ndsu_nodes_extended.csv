@@ -1,0 +1,51 @@
+node_id,name,node_type,building_code,x,y,lat,lon,is_indoor,is_accessible,has_elevator,has_door_operator,has_emergency_phone,well_lit,open_time,close_time,selectable,description
+mu_interior,Memorial Union,building,MU,0,0,46.890950,-96.800950,true,true,true,true,true,true,06:00,23:00,true,Primary student-union interior and one of the key winter routing anchors on central campus.
+sugihara_interior,Sugihara Hall,building,SH,90,-10,46.891120,-96.799920,true,true,true,true,true,true,07:00,22:00,true,Academic building on the main indoor winter corridor east of Memorial Union.
+ladd_interior,Ladd Hall,building,LH,155,-15,46.891240,-96.800280,true,true,true,true,true,true,07:00,22:00,true,Historic chemistry and classroom building connected by indoor skyway routing.
+library_interior,Library,building,LIB,35,125,46.893180,-96.800760,true,true,true,true,true,true,07:30,23:00,true,Main library destination north of the central academic core.
+minard_interior,Minard Hall,building,MN,100,88,46.892180,-96.802530,true,true,true,true,true,true,07:00,22:00,true,Major central academic destination and MATBUS pullout anchor.
+old_main_interior,Old Main,building,OM,70,132,46.893160,-96.802180,true,true,true,true,true,true,07:00,22:00,true,Historic administrative building on the north academic spine.
+putnam_interior,Putnam Hall,building,PH,58,115,46.892980,-96.801780,true,true,true,true,true,true,07:00,22:00,true,Graduate School building near Old Main.
+morrill_interior,Morrill Hall,building,MR,55,35,46.890600,-96.801950,true,true,true,true,true,true,07:00,22:00,true,Academic building south of Ladd Hall within the central campus core.
+qbb_interior,Quentin Burdick Building,building,QBB,210,70,46.890260,-96.803020,true,true,true,true,true,true,07:00,22:00,true,Computer science and technology destination in the engineering district.
+sudro_interior,Sudro Hall,building,SD,245,75,46.889900,-96.802730,true,true,true,true,true,true,07:00,22:00,true,Health sciences destination adjacent to the engineering and science district.
+engineering_interior,Engineering,building,ENG,188,88,46.891000,-96.802860,true,true,true,true,true,true,07:00,22:00,true,Main engineering building cluster node.
+engineering_center_interior,Engineering Center,building,ENC,195,98,46.891180,-96.802620,true,true,true,true,true,true,07:00,22:00,true,Indoor connector hub for engineering buildings.
+ece_interior,Electrical and Computer Engineering,building,ECE,204,102,46.891040,-96.802340,true,true,true,true,true,true,07:00,22:00,true,Electrical and Computer Engineering destination.
+civil_interior,Civil and Industrial Engineering,building,CIE,185,104,46.891210,-96.802980,true,true,true,true,true,true,07:00,22:00,true,Civil and Industrial Engineering destination.
+dolve_interior,Dolve Hall,building,DOL,175,110,46.891430,-96.803120,true,true,true,true,true,true,07:00,22:00,true,Mechanical engineering and connected interior circulation node.
+south_engineering_interior,South Engineering,building,SEN,208,118,46.891530,-96.802230,true,true,true,true,true,true,07:00,22:00,true,Physics and south engineering destination.
+wallman_interior,Wallman Wellness Center,building,WWC,-78,18,46.894120,-96.807450,true,true,true,true,true,true,05:30,23:00,true,Wellness center and western campus anchor.
+stevens_interior,Stevens Hall,building,STV,150,82,46.894200,-96.804350,true,true,true,true,true,true,07:00,22:00,true,Natural sciences building near the western academic loop.
+van_es_interior,Van Es Hall,building,VES,165,50,46.889420,-96.804360,true,true,true,true,true,true,07:00,22:00,true,Microbiological sciences building in the southern science corridor.
+waldron_interior,Waldron Hall,building,WAL,142,60,46.890050,-96.804720,true,true,true,true,true,true,07:00,22:00,true,Agriculture building west of the central science block.
+harris_interior,Harris Hall,building,HAR,132,78,46.891630,-96.803980,true,true,true,true,true,true,07:00,22:00,true,Food science and cereal science destination.
+shac_interior,Sanford Health Athletic Complex,building,SHAC,290,132,46.900860,-96.798120,true,true,true,true,true,true,06:00,22:00,true,Athletics and event destination on the north side of campus.
+peltier_interior,Peltier Complex,building,PEL,-120,95,46.893280,-96.809540,true,true,true,true,true,true,07:00,22:00,true,Western edge research and ag-complex destination.
+research_park,Research and Technology Park,building,RTP,-145,132,46.903250,-96.808120,true,true,true,true,true,true,07:00,22:00,true,Northwest campus research destination beyond the core walk grid.
+fargodome_interior,Fargodome,building,FD,268,188,46.901330,-96.803180,true,true,true,true,true,true,07:00,23:00,true,Large venue and far-north campus destination.
+university_village,University Village,building,UV,335,160,46.901060,-96.796380,true,true,true,true,true,true,00:00,23:59,true,Student housing complex east of the Fargodome.
+high_rises,NDSU High Rises,building,HR,198,145,46.896930,-96.802850,true,true,true,true,true,true,00:00,23:59,true,Student housing node north of the central academic core.
+niskanen_interior,Niskanen Hall,building,NIS,320,180,46.902820,-96.797900,true,true,true,true,true,true,00:00,23:59,true,Residence hall node north-east of campus.
+renaissance_hall,Renaissance Hall,building,RH,-240,-120,46.875900,-96.790470,true,true,true,true,true,true,07:00,22:00,true,Downtown campus academic building served by MATBUS.
+klai_hall,Klai Hall,building,KL,-225,-105,46.878360,-96.791650,true,true,true,true,true,true,07:00,22:00,true,Downtown architecture destination linked to campus by MATBUS.
+barry_hall,Barry Hall,building,BAR,-208,-105,46.878470,-96.793210,true,true,true,true,true,true,07:00,22:00,true,Downtown business destination linked to campus by MATBUS.
+main_quad_south,Main Quad South,intersection,OUT,-10,42,46.891160,-96.801530,false,true,false,false,false,true,always,always,false,Central southern quad walkway near Memorial Union.
+main_quad_north,Main Quad North,intersection,OUT,48,84,46.892380,-96.801410,false,true,false,false,false,true,always,always,false,Northern academic quad walkway near the library and Old Main.
+admin_green,Admin Green,intersection,OUT,75,102,46.892520,-96.802120,false,true,false,false,false,true,always,always,false,Outdoor decision point between Old Main Putnam and Minard.
+albrecht_crossing,Albrecht Crossing,intersection,OUT,110,55,46.891500,-96.802760,false,true,false,false,false,true,always,always,false,Major east-west crossing near Minard and the transit loop.
+centennial_walkway,Centennial Walkway,intersection,OUT,155,86,46.893940,-96.802730,false,true,false,false,false,false,always,always,false,Wind-exposed walkway aligned with Centennial Boulevard shelters.
+engineering_plaza,Engineering Plaza,intersection,OUT,186,78,46.890800,-96.803120,false,true,false,false,false,true,always,always,false,Outdoor plaza serving the engineering district.
+ndsu_transit_hub,NDSU Transit Hub,bus_stop,BUS,220,110,46.892569,-96.799251,false,true,false,false,false,true,always,always,false,Primary MATBUS transit hub serving the central NDSU campus.
+minard_pullout_east,NDSU Minard Hall Pullout East,bus_stop,BUS,106,96,46.892128,-96.802474,false,true,false,false,false,true,always,always,false,Official MATBUS stop on the east side of Minard Hall.
+minard_pullout_west,NDSU Minard Hall Pullout West,bus_stop,BUS,92,96,46.892181,-96.802671,false,true,false,false,false,true,always,always,false,Official MATBUS stop on the west side of Minard Hall.
+centennial_shelter,Centennial Shelter,bus_stop,BUS,232,120,46.894459,-96.798154,false,true,false,false,false,true,always,always,false,Official MATBUS shelter on Centennial Boulevard.
+fargodome_transit_hub,Fargodome Transit Hub,bus_stop,BUS,262,176,46.901117,-96.803081,false,true,false,false,false,true,always,always,false,Official MATBUS transit stop at the Fargodome.
+university_village_shelter,University Village Shelter,bus_stop,BUS,348,158,46.901194,-96.796262,false,true,false,false,false,true,always,always,false,Official MATBUS shelter at University Village.
+klai_stop,Klai Hall MATBUS Stop,bus_stop,BUS,-226,-102,46.878363,-96.791650,false,true,false,false,false,true,always,always,false,Official MATBUS stop adjacent to Klai Hall.
+barry_stop,Barry Hall MATBUS Stop,bus_stop,BUS,-208,-102,46.878475,-96.793209,false,true,false,false,false,true,always,always,false,Official MATBUS stop adjacent to Barry Hall.
+research_park_stop,Research Park MATBUS Stop,bus_stop,BUS,-148,128,46.903666,-96.808758,false,true,false,false,false,true,always,always,false,Official MATBUS stop at Research Park.
+wellness_stop,Wellness Center MATBUS Stop,bus_stop,BUS,-84,22,46.894192,-96.807592,false,true,false,false,false,true,always,always,false,Official MATBUS stop at Wallman Wellness Center.
+stevens_stop,Stevens Hall MATBUS Stop,bus_stop,BUS,152,88,46.894186,-96.804514,false,true,false,false,false,true,always,always,false,Official MATBUS stop at Stevens Hall.
+shac_stop,SHAC MATBUS Stop,bus_stop,BUS,288,126,46.900867,-96.798102,false,true,false,false,false,true,always,always,false,Official MATBUS stop at SHAC.
+peltier_stop,Peltier Complex MATBUS Stop,bus_stop,BUS,-118,100,46.893270,-96.809573,false,true,false,false,false,true,always,always,false,Official MATBUS stop at the Peltier Complex.

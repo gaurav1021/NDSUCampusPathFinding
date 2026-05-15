@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+247,"MATBUS",https://www.matbus.com/,America/Chicago,en-US,701.241.8140,https://matbus.com/riding-matbus/fares-passes,customercare@matbus.com

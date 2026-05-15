@@ -1,0 +1,26 @@
+node_id,stop_id,walking_distance_m,description
+mu_interior,9567761,205,Memorial Union connected to the NDSU Transit Hub.
+library_interior,9567761,265,Library connected to the NDSU Transit Hub.
+minard_interior,9567712,24,Minard east pullout.
+minard_interior,9583493,22,Minard west pullout.
+wallman_interior,9583487,25,Wellness Center stop.
+stevens_interior,9583486,20,Stevens Hall stop.
+peltier_interior,9836370,35,Peltier Complex stop.
+research_park,9583489,45,Research Park stop.
+shac_interior,9567758,20,SHAC stop.
+fargodome_interior,9583494,50,Fargodome transit hub.
+university_village,9590949,40,University Village shelter.
+high_rises,9583497,30,High Rises stop.
+niskanen_interior,9597012,65,Niskanen shelter.
+renaissance_hall,9567713,20,Renaissance Hall pullout.
+klai_hall,9567416,18,Klai Hall stop.
+barry_hall,9567417,18,Barry Hall stop.
+qbb_interior,9567786,120,Engineering district access via Albrecht shelter.
+sudro_interior,9567786,135,Engineering district access via Albrecht shelter.
+engineering_interior,9567786,110,Engineering district access via Albrecht shelter.
+ece_interior,9567786,140,Engineering district access via Albrecht shelter.
+civil_interior,9567786,125,Engineering district access via Albrecht shelter.
+dolve_interior,9567786,145,Engineering district access via Albrecht shelter.
+south_engineering_interior,9567786,150,Engineering district access via Albrecht shelter.
+old_main_interior,9567761,230,Old Main connected to the transit hub.
+putnam_interior,9567761,210,Putnam connected to the transit hub.
